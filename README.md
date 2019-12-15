@@ -1,2 +1,2 @@
 # Dice-Game
-Sharing my code as to how I solved the Dice Game!
+Solution to the Dice Game- my perspective!
